@@ -10,5 +10,267 @@
     { "id": 8, "title": "eight" }, 
     { "id": 9, "title": "nine" }, 
     { "id": 10, "title": "ten" } 
-  ]
+  ],
+  "bookings": {
+  "JQGGFL": {
+    "itinerary": [
+      {
+        "arrive": "LHR",
+        "arriveDate": "2021-03-07T09:20:00Z",
+        "depart": "LAX",
+        "departDate": "2021-03-06T15:00:00-08:00",
+        "flightNumber": "6757",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "AF",
+          "name": "Air France"
+        },
+        "operatingAirline": {
+          "code": "VS",
+          "name": "Virgin Atlantic"
+        },
+        "requestedSegmentRef": "1",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "V"
+      },
+      {
+        "arrive": "LAX",
+        "arriveDate": "2020-03-15T17:35:00-07:00",
+        "depart": "LHR",
+        "departDate": "2020-03-15T13:15:00Z",
+        "flightNumber": "9653",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "AF",
+          "name": "Air France"
+        },
+        "operatingAirline": {
+          "code": "VS",
+          "name": "Virgin Atlantic"
+        },
+        "requestedSegmentRef": "2",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "V"
+      }
+    ],
+    "recipients": [
+      {
+        "name": "Erica Cruz",
+        "email": "erica.cruz@trafalgartours.com",
+        "type": "Res Agent"
+      }
+    ]
+  },
+  "MU5DJ9": {
+    "itinerary": [
+      {
+        "arrive": "FCO",
+        "arriveDate": "2020-04-07T10:50:00+02:00",
+        "depart": "JFK",
+        "departDate": "2020-04-06T20:02:00-04:00",
+        "flightNumber": "444",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "DL",
+          "name": "Delta Airlines"
+        },
+        "operatingAirline": {
+          "code": "DL",
+          "name": "Delta Airlines"
+        },
+        "requestedSegmentRef": "1",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "T"
+      }
+    ],
+    "recipients": [
+      {
+        "name": "Yesenia Nunez",
+        "email": "yesenia.nunez@trafalgartours.com",
+        "type": "Res Agent"
+      }
+    ]
+  },
+  "Q4RVF4": {
+    "itinerary": [
+      {
+        "arrive": "DFW",
+        "arriveDate": "2020-05-07T16:22:00-05:00",
+        "depart": "LAX",
+        "departDate": "2020-05-07T11:25:00-07:00",
+        "flightNumber": "2354",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "operatingAirline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "requestedSegmentRef": "1",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "O"
+      },
+      {
+        "arrive": "LHR",
+        "arriveDate": "2020-05-08T09:00:00+01:00",
+        "depart": "DFW",
+        "departDate": "2020-05-07T18:05:00-05:00",
+        "flightNumber": "20",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "operatingAirline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "requestedSegmentRef": "2",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "O"
+      },
+      {
+        "arrive": "LAX",
+        "arriveDate": "2020-05-18T14:45:00-07:00",
+        "depart": "LHR",
+        "departDate": "2020-05-18T11:25:00+01:00",
+        "flightNumber": "6215",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "operatingAirline": {
+          "code": "BA",
+          "name": "British Airways"
+        },
+        "requestedSegmentRef": "3",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "O"
+      }
+    ],
+    "recipients": [
+      {
+        "name": "Web Booking",
+        "email": "Web.Booking@bookttcuk.com",
+        "type": "Res Agent"
+      }
+    ]
+  },
+  "MUBRMJ": {
+    "itinerary": [
+      {
+        "arrive": "SAN",
+        "arriveDate": "2020-05-05T23:00:00-07:00",
+        "depart": "ATL",
+        "departDate": "2020-05-05T21:16:00-04:00",
+        "flightNumber": "5251",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "VS",
+          "name": "Virgin Atlantic"
+        },
+        "operatingAirline": {
+          "code": "DL",
+          "name": "Delta Airlines"
+        },
+        "requestedSegmentRef": "4",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "O"
+      }
+    ],
+    "recipients": [
+      {
+        "name": "Web Booking",
+        "email": "Web.Booking@bookttcuk.com",
+        "type": "Res Agent"
+      }
+    ]
+  },
+  "MUBXFO": {
+    "itinerary": [
+      {
+        "arrive": "DFW",
+        "arriveDate": "2019-11-30T15:50:00-06:00",
+        "depart": "LHR",
+        "departDate": "2019-11-30T11:15:00Z",
+        "flightNumber": "21",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "operatingAirline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "requestedSegmentRef": "5",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "O"
+      }
+    ],
+    "recipients": [
+      {
+        "name": "Alicia Romo",
+        "email": "alicia.romo@contiki.com",
+        "type": "Res Agent"
+      }
+    ]
+  },
+  "MUHPSR": {
+    "itinerary": [
+      {
+        "arrive": "PHL",
+        "arriveDate": "2020-06-02T13:35:00-04:00",
+        "depart": "EDI",
+        "departDate": "2020-06-02T10:45:00+01:00",
+        "flightNumber": "279",
+        "isInboundFlight": true,
+        "airline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "operatingAirline": {
+          "code": "AA",
+          "name": "American Airlines"
+        },
+        "requestedSegmentRef": "3",
+        "stopQuantity": 0,
+        "cabin": "Economy",
+        "statusCode": "HK",
+        "classOfService": "Q"
+      }
+    ],
+    "recipients": [
+      {
+        "name": "Angie Chanthanouvong",
+        "email": "Angie.Chanthanouvong@trafalgartours.com",
+        "type": "Res Agent"
+      },
+      {
+        "name": "Angie Chanthanouvong",
+        "email": "tropicsuat@travcorp.ca",
+        "type": "Travel Agent"
+      }
+    ]
+  }
+}
 }
